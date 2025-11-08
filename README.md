@@ -28,7 +28,7 @@
   🔹 Firmware & driver development (FreeRTOS, bare-metal, low-level C/C++)<br>
   🔹 Communication stacks<br>
   🔹 Sensor integration and board bring-up<br>
-  🔹 System optimisation for timing, power, and memory constraints
+  🔹 System optimisation for timing, power, and memory constraints <br>
   🔹 Customize and rice Fedora Linux for productivity and aesthetics
 </p>
 
