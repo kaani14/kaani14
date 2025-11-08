@@ -24,11 +24,12 @@
 ###
 
 <p align="center">
-  🔹 Micronctrollers (STM32, NXP S32K, Aurix Tricore) <br>
+  🔹 Microcontrollers (STM32, NXP S32K, Aurix Tricore) <br>
   🔹 Firmware & driver development (FreeRTOS, bare-metal, low-level C/C++)<br>
   🔹 Communication stacks<br>
   🔹 Sensor integration and board bring-up<br>
   🔹 System optimisation for timing, power, and memory constraints
+  🔹 Customize and rice Fedora Linux for productivity and aesthetics
 </p>
 
 ###
