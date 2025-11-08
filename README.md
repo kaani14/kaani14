@@ -1,16 +1,38 @@
-## Hi there 👋
+<h2 align="center">Hi 👋 I'm Kani</h2>
 
-<!--
-**kaani14/kaani14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Embedded Software Developer | Real-Time Systems | Automotive | LiDAR </strong><br>
+  Focused on firmware design, hardware-software integration, and efficient embedded architectures.
+</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C logo" />
+</div>
+
+###
+
+<p align="center">
+  🔹 Micronctrollers (STM32, NXP S32K, Aurix Tricore) <br>
+  🔹 Firmware & driver development (FreeRTOS, bare-metal, low-level C/C++)<br>
+  🔹 Communication stacks<br>
+  🔹 Sensor integration and board bring-up<br>
+  🔹 System optimisation for timing, power, and memory constraints
+</p>
+
+###
+
+<p align="center">
+  <i>Building reliable embedded systems with clean, efficient code.</i>
+</p>
