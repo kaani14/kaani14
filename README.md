@@ -32,7 +32,3 @@
 </p>
 
 ###
-
-<p align="center">
-  <i>Building reliable embedded systems with clean, efficient code.</i>
-</p>
